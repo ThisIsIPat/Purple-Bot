@@ -18,4 +18,4 @@ Thanks to everyone participating in this project!
 + [IPat](https://github.com/thisisipat)
 
 ## License
-This application is licensed under the [Apache License 2.0](LICENSE.md)
+This application is licensed under the [Apache License 2.0](LICENSE.md).
