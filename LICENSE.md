@@ -1,4 +1,4 @@
-**Copyright 2016 (your or my real name here, we gonna need to have a talk about that)**
+**Copyright 2016 Patrick Hein**
 
 Licensed under the Apache License, Version 2.0 (the "License");
 you may not use this file except in compliance with the License.
